@@ -1,0 +1,149 @@
+Timestamp,PID,ProcessName,VRAM_Used_MB,Power_W,GPU_Util_%,Temp_C,Fan_%,CoreClk_MHz,MemClk_MHz,PCIe_RX_MBs,PCIe_TX_MBs,Kernels_Count,Duration_Mean_ns,Duration_StdDev_ns,Theoretical_Occupancy_%,MemCpy_Count
+22:18:24,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.865,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:18:24,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.865,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:18:24,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.865,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:18:24,28920,"Unknown",0,2.865,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:18:40,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.923,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:18:40,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.923,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:18:40,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.923,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:18:40,28920,"Unknown",0,2.923,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:18:56,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.882,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:18:56,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.882,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:18:56,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.882,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:18:56,28920,"Unknown",0,2.882,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:12,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,3.157,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:12,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,3.157,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:12,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,3.157,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:12,28920,"Unknown",0,3.157,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:28,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.916,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:28,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.916,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:28,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.916,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:28,28920,"Unknown",0,2.916,0,43,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:44,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.943,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:44,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.943,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:44,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.943,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:19:44,28920,"Unknown",0,2.943,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:01,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,3.088,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:01,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,3.088,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:01,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,3.088,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:01,28920,"Unknown",0,3.088,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:17,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.999,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:17,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.999,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:17,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.999,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:17,28920,"Unknown",0,2.999,0,42,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:33,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.893,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:33,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.893,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:33,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.893,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:33,28920,"Unknown",0,2.893,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:50,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.834,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:50,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.834,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:50,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.834,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:20:50,28920,"Unknown",0,2.834,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:06,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,3.157,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:06,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,3.157,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:06,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,3.157,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:06,28920,"Unknown",0,3.157,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:22,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.878,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:22,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.878,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:22,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.878,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:22,28920,"Unknown",0,2.878,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:39,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.809,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:39,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.809,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:39,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.809,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:39,28920,"Unknown",0,2.809,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:55,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.906,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:55,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.906,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:55,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.906,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:21:55,28920,"Unknown",0,2.906,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:11,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.847,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:11,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.847,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:11,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.847,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:11,28920,"Unknown",0,2.847,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:27,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.883,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:27,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.883,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:27,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.883,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:27,28920,"Unknown",0,2.883,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:44,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.919,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:44,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.919,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:44,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.919,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:22:44,28920,"Unknown",0,2.919,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:00,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.996,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:00,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.996,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:00,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.996,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:00,28920,"Unknown",0,2.996,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:16,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.955,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:16,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.955,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:16,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.955,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:16,28920,"Unknown",0,2.955,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:33,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.769,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:33,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.769,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:33,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.769,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:33,28920,"Unknown",0,2.769,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:49,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.822,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:49,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.822,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:49,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.822,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:23:49,28920,"Unknown",0,2.822,0,41,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:05,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.902,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:05,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.902,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:05,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.902,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:05,28920,"Unknown",0,2.902,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:21,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.828,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:21,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.828,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:21,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.828,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:21,28920,"Unknown",0,2.828,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:38,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.841,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:38,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.841,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:38,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.841,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:38,28920,"Unknown",0,2.841,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:54,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.942,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:54,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.942,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:54,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.942,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:24:54,28920,"Unknown",0,2.942,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:10,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.89,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:10,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.89,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:10,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.89,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:10,28920,"Unknown",0,2.89,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:26,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.903,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:26,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.903,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:26,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.903,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:26,28920,"Unknown",0,2.903,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:43,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.819,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:43,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.819,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:43,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.819,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:43,28920,"Unknown",0,2.819,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:59,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.907,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:59,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.907,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:59,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.907,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:25:59,28920,"Unknown",0,2.907,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:15,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.868,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:15,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.868,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:15,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.868,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:15,28920,"Unknown",0,2.868,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:32,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.866,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:32,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.866,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:32,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.866,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:32,28920,"Unknown",0,2.866,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:48,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.903,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:48,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.903,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:48,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.903,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:26:48,28920,"Unknown",0,2.903,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:04,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.878,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:04,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.878,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:04,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.878,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:04,28920,"Unknown",0,2.878,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:20,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.894,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:20,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.894,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:20,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.894,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:20,28920,"Unknown",0,2.894,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:37,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.854,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:37,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.854,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:37,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.854,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:37,28920,"Unknown",0,2.854,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:53,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.901,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:53,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.901,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:53,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.901,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:27:53,28920,"Unknown",0,2.901,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:28:09,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",0,2.923,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:28:09,24960,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.923,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:28:09,34036,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",0,2.923,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0
+22:28:09,28920,"Unknown",0,2.923,0,40,0,300,405,0,0,0,0.00,0.00,0.00,0

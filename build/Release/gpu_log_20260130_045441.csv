@@ -1,0 +1,666 @@
+TIMESTAMP,PID,NAME,MEM_MB,PWR_W,GPU_TIME_MS,GPU_PACKET_COUNT,NET_TX,NET_RX
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.03,940,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,870.52,582,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,3.06,773,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.4,0.64,257,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.62,1142,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1067.47,722,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,4.04,894,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.2,0.44,171,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.60,1070,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,1001.78,656,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,5.77,1613,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.4,0.24,158,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,26.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,26.0,2.44,1086,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,26.0,1002.09,690,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,26.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,26.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,26.0,4.27,913,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,26.0,1.49,697,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,47.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,47.3,2.87,1152,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,47.3,1004.74,677,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,47.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,47.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,47.3,4.40,880,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,47.3,13.10,7548,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,46.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,46.7,2.87,1146,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,46.7,956.80,681,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,46.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,46.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,46.7,4.61,857,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,46.7,22.00,12536,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,46.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,46.5,2.99,1221,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,46.5,1054.72,721,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,46.5,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,46.5,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,46.5,5.13,900,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,46.5,24.37,13566,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,50.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,50.4,3.02,1122,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,50.4,990.15,681,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,50.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,50.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,50.4,4.94,937,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,50.4,22.87,11417,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.9,2.67,1141,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.9,1003.67,665,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.9,4.61,847,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.9,33.39,11666,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,50.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,50.1,20.34,1350,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,50.1,1214.87,844,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,50.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,50.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,50.1,82.75,1026,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,50.1,22.97,13815,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.9,2.37,898,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.9,741.82,554,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.9,3.05,624,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.9,23.16,10394,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.5,3.40,1434,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.5,1253.62,856,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.5,6.23,1207,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.5,22.05,15594,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.2,0.00,2,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.2,3.17,1205,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.2,1022.12,750,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.2,4.50,873,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.2,26.70,13214,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.4,3.30,1311,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.4,1104.14,769,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.4,5.79,1116,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.4,59.62,20266,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.4,3.28,1258,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.4,1085.95,866,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.4,5.40,947,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.4,78.83,26257,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,20.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,20.9,1.67,569,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,20.9,509.92,373,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,20.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,20.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,20.9,2.76,527,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,20.9,14.40,4232,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,20.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,20.3,2.93,1126,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,20.3,1018.13,702,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,20.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,20.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,20.3,4.50,975,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,20.3,0.14,63,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,14.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,14.1,2.81,1084,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,14.1,984.00,715,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,14.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,14.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,14.1,4.21,900,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,14.1,0.14,65,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,14.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,14.2,3.07,1105,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,14.2,983.97,665,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,14.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,14.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,14.2,4.67,1124,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,14.2,0.19,71,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,7.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,7.2,2.51,1034,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,7.2,986.45,687,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,7.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,7.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,7.2,4.22,955,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,7.2,0.13,63,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.6,2.53,1035,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.6,985.70,651,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.6,3.43,836,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.6,0.16,74,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,14.4,0.04,24,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,14.4,86.94,35032,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,14.4,30877.39,22377,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,14.4,1.06,161,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,14.4,0.03,22,0,0
+NOW,28920,"Unknown",17592186044415,14.4,134.25,26018,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,14.4,741.42,332887,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,17.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,17.4,2.57,1084,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,17.4,1001.76,666,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,17.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,17.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,17.4,4.24,1157,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,17.4,1.61,687,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,17.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,17.4,2.89,1134,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,17.4,986.19,669,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,17.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,17.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,17.4,3.37,726,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,17.4,0.21,80,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,40.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,40.4,3.12,1093,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,40.4,985.99,693,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,40.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,40.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,40.4,4.63,1186,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,40.4,1.12,614,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.3,0.00,6,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.3,2.68,1160,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.3,1006.52,714,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.3,4.37,857,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.3,9.39,6809,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.2,0.01,4,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.2,3.33,1363,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.2,1236.85,830,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.2,5.71,1089,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.2,19.60,15040,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.7,2.82,1108,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.7,988.26,664,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.7,0.26,49,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.7,4.85,834,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.7,16.55,12270,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.7,3.04,1126,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.7,988.81,773,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.7,4.86,876,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.7,19.88,12590,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.5,3.33,1302,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.5,1170.49,835,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.01,6,0,0
+NOW,28920,"Unknown",17592186044415,49.5,5.73,1005,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.5,19.74,15471,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.5,2.75,997,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.5,890.69,609,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.5,4.47,813,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.5,16.79,12023,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.9,0.01,4,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.9,3.56,1239,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.9,1087.04,791,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.9,5.33,906,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.9,19.81,14476,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.2,2.67,1091,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.2,972.56,722,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.01,4,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.2,4.98,902,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.2,15.67,11914,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.4,3.52,1318,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.4,1102.81,843,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.4,0.00,6,0,0
+NOW,28920,"Unknown",17592186044415,49.4,5.41,953,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.4,17.45,13950,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,50.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,50.0,2.75,991,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,50.0,873.22,591,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,50.0,0.00,2,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,50.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,50.0,4.87,849,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,50.0,14.22,10398,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.2,3.31,1322,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.2,1202.39,917,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.01,5,0,0
+NOW,28920,"Unknown",17592186044415,49.2,5.45,1060,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.2,16.95,14039,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.0,3.29,1255,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.0,1070.78,748,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.0,5.51,975,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.0,15.68,12620,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.0,2.94,1157,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.0,1005.21,763,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.0,1.24,498,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.0,4.74,842,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.0,15.39,11888,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.8,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.8,2.82,1155,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.8,1022.52,710,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.8,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.8,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.8,5.00,898,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.8,13.46,11600,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.6,2.11,802,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.6,709.10,535,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.6,3.52,580,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.6,11.92,8967,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.2,4.06,1496,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.2,1285.74,887,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.2,6.48,1138,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.2,22.55,16881,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.2,2.87,1152,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.2,989.14,817,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.2,4.60,802,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.2,18.13,13190,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.0,4.03,1521,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.0,1351.43,973,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.0,6.54,1176,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.0,21.57,17239,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.1,3.08,1105,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.1,988.89,685,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.1,4.62,823,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.1,17.75,13553,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.9,2.91,1145,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.9,1021.32,757,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.9,5.01,916,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.9,19.02,13553,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.3,3.21,1156,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.3,988.21,663,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.3,4.82,833,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.3,17.28,12384,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.0,2.78,1109,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.0,988.34,716,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.0,0.32,45,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.0,5.02,919,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.0,14.36,11570,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.3,2.89,1130,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.3,1005.20,746,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.3,4.85,843,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.3,15.74,11797,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.5,3.27,1147,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.5,1005.96,797,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.5,4.94,897,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.5,15.41,11910,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.2,0.01,4,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.2,3.63,1174,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.2,1021.69,768,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.2,4.61,854,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.2,16.18,12229,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.3,2.95,1104,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.3,955.70,670,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.3,5.38,888,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.3,15.08,11731,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.3,2.72,1108,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.3,1005.37,691,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.3,0.00,2,0,0
+NOW,28920,"Unknown",17592186044415,49.3,4.55,848,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.3,17.51,12492,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.4,2.99,1204,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.4,988.30,684,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.4,4.83,909,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.4,16.49,12412,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.1,3.18,1136,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.1,1021.12,740,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.1,0.09,13,0,0
+NOW,28920,"Unknown",17592186044415,49.1,5.20,906,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.1,17.51,12755,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.5,3.24,1152,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.5,1004.52,703,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.5,5.15,862,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.5,17.63,12759,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.6,2.75,1138,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.6,988.48,769,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.6,0.00,2,0,0
+NOW,28920,"Unknown",17592186044415,49.6,4.93,903,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.6,16.22,12996,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.0,3.69,1345,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.0,1252.85,908,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.0,0.25,85,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.0,6.55,1099,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.0,19.78,15059,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.1,2.37,891,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.1,741.22,503,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.1,3.46,652,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.1,11.42,8698,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.9,3.89,1554,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.9,1335.21,1027,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.9,6.36,1121,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.9,19.96,16365,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.1,3.36,1309,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.1,1137.76,815,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.1,5.47,981,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.1,17.68,14005,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.2,2.31,881,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.2,806.26,621,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.2,4.69,863,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.2,14.27,9984,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.7,3.06,1199,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.7,1071.09,741,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.7,5.03,948,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.7,20.25,15075,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,49.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,49.5,3.25,1230,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,49.5,1070.68,745,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,49.5,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,49.5,5.19,1014,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,49.5,18.75,14305,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,48.8,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,48.8,2.60,1028,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,48.8,923.58,658,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,48.8,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,48.8,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,48.8,4.42,842,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,48.8,17.99,13589,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,22.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,22.6,2.04,830,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,22.6,723.17,488,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,22.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,22.6,0.03,19,0,0
+NOW,28920,"Unknown",17592186044415,22.6,4.33,739,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,22.6,12.71,9148,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,21.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,21.2,2.41,927,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,21.2,855.04,565,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,21.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,21.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,21.2,3.34,1082,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,21.2,0.13,54,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,14.8,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,14.8,2.68,1074,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,14.8,984.01,677,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,14.8,0.24,45,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,14.8,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,14.8,3.66,820,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,14.8,0.16,63,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,14.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,14.7,2.54,1080,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,14.7,1017.88,683,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,14.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,14.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,14.7,4.13,816,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,14.7,0.15,65,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,8.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,8.0,2.42,1098,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,8.0,967.98,642,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,8.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,8.0,0.02,1,0,0
+NOW,28920,"Unknown",17592186044415,8.0,3.04,662,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,8.0,0.19,73,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,7.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,7.4,2.45,1083,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,7.4,1003.91,679,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,7.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,7.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,7.4,3.50,785,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,7.4,0.13,57,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.9,2.62,1045,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.9,984.74,627,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.9,3.22,678,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.9,0.18,68,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.8,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.8,2.49,1088,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.8,1001.32,677,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.8,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.8,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.8,3.42,802,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.8,0.25,90,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.7,2.38,1082,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.7,1018.32,735,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.7,3.42,733,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.7,0.26,93,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.8,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.8,4.86,2114,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.8,1954.08,1298,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.8,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.8,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.8,6.44,1365,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.8,0.47,192,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.8,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.8,2.50,1046,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.8,986.91,658,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.8,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.8,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.8,3.01,668,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.8,0.16,87,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,5.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,5.0,2.43,1038,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,5.0,969.09,707,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,5.0,0.24,46,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,5.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,5.0,3.15,724,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,5.0,0.37,157,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.7,2.47,1022,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.7,952.87,643,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.7,2.86,615,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.7,0.28,114,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.5,2.63,1153,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.5,1066.71,716,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.5,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.5,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.5,3.64,771,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.5,0.19,80,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,5.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,5.0,2.47,1073,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,5.0,1001.06,668,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,5.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,5.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,5.0,3.07,656,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,5.0,0.23,89,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.6,2.35,1082,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.6,1001.69,678,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.6,3.42,711,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.6,0.38,123,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.9,2.37,1087,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.9,1002.99,668,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.9,3.10,655,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.9,0.21,126,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.7,2.45,1035,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.7,985.83,653,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.01,6,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.7,3.44,699,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.7,0.28,165,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.7,2.63,1115,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.7,1018.55,722,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.7,2.98,695,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.7,0.21,108,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.5,3.06,1073,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.5,966.51,666,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.5,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.5,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.5,3.88,1065,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.5,0.36,118,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.6,2.36,1039,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.6,952.39,656,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.6,4.58,1027,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.6,0.18,96,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.6,2.58,1101,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.6,1049.70,729,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.25,45,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.6,4.68,1327,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.6,0.30,1611,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.7,2.56,1081,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.7,1016.64,671,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.7,4.69,1224,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.7,0.25,165,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.13,27,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,203.20,87665,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,81381.08,55675,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,1.32,234,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.05,9,0,0
+NOW,28920,"Unknown",17592186044415,4.4,328.22,67567,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.4,22.40,7276,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.61,1166,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,1033.42,697,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,3.58,747,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.4,0.21,87,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.8,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.8,2.62,1107,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.8,1016.49,691,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.8,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.8,0.01,6,0,0
+NOW,28920,"Unknown",17592186044415,4.8,4.36,871,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.8,0.70,162,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.7,0.00,6,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.7,4.23,1809,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.7,1707.66,1150,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.7,7.48,1491,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.7,0.49,236,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,0.89,351,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,311.31,221,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,1.69,396,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.4,0.06,18,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.6,2.52,1085,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.6,984.45,650,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.6,4.00,835,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.6,0.34,96,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,4.13,1715,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,1570.91,1040,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,5.30,1139,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.4,0.46,4452,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.5,0.94,413,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.5,407.31,260,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.5,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.5,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.5,2.24,582,0,0
+NOW,29188,"E:\Games\GTAV\GTA5.exe",17592186044415,4.5,0.12,41,0,0

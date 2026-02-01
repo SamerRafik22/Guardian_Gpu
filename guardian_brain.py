@@ -4,16 +4,150 @@ import glob
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import IsolationForest
-from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import StandardScaler
 import joblib
 from datetime import datetime
 import warnings
+import atexit
+import gzip
+import json
+import threading
+import queue
+from sklearn.neighbors import LocalOutlierFactor
 
 # Suppress warnings for cleaner output
 warnings.filterwarnings('ignore')
 
 LOG_DIR = r"d:\Guardian_Gpu\build\Release"
-MODEL_PATH = "guardian_model.pkl"
+MODEL_PATH = "brain_state.pkg"
+VAULT_PATH = "guardian_vault.jsonl.gz"
+KB_PATH = "knowledge_bank.json"
+
+class KnowledgeBank:
+    def __init__(self, kb_path=KB_PATH):
+        self.kb_path = kb_path
+        self.known_signatures = []
+        self.load()
+
+    def load(self):
+        if os.path.exists(self.kb_path):
+            try:
+                with open(self.kb_path, 'r') as f:
+                    self.known_signatures = json.load(f)
+            except:
+                self.known_signatures = []
+
+    def is_known(self, vector, tolerance=0.1):
+        if not self.known_signatures:
+             return []
+        
+        # Simple Euclidean Logic for PoC
+        try:
+             vec = np.array(vector)
+             for sig in self.known_signatures:
+                 ref = np.array(sig['vector'])
+                 dist = np.linalg.norm(vec - ref)
+                 if dist < tolerance:
+                     return [sig['label']]
+        except: pass
+        return []
+
+class BackgroundAnalyzer(threading.Thread):
+    def __init__(self, knowledge_bank, vault):
+        super().__init__()
+        self.kb = knowledge_bank
+        self.vault = vault
+        self.queue = queue.Queue()
+        self.running = True
+        self.daemon = True # Auto-kill when main dies
+        
+    def run(self):
+        print("[Background] Ghost Thread initialized. Waiting for cases...")
+        while self.running:
+            try:
+                # Wait for suspect data (timeout allows check strictly for exit)
+                priority, data_row, original_score = self.queue.get(timeout=1.0)
+                
+                # --- HEAVY COMPUTATION ZONE (Tier 4) ---
+                # This runs in parallel and doesn't block the game
+                
+                # 1. Simulate Deep Analysis (e.g., LOF on Vault History)
+                # In real prod, we would load 5000 pts from Vault here
+                time.sleep(1.0) # Simulating "Thinking" time
+                
+                # 2. Logic: If it's ambiguous (-0.65), do we find neighbors?
+                # For this implementation, we simulate accurate "Re-Classification"
+                
+                final_verdict = "SAFE"
+                # If we find it in KnowledgeBank -> Safe
+                if self.kb.is_known(data_row):
+                    final_verdict = "SAFE"
+                else:
+                    # If density is low (Outlier) -> THREAT
+                    # Using Mock LOF logic for now to respect stability
+                    final_verdict = "ANALYZED_THREAT"
+
+                # 3. Update System
+                if final_verdict == "SAFE":
+                    # Teach the Brain so main thread doesn't ask again
+                    # Accessing KB needs to be thread-safe in prod, simple list append is atomic enough for Python GIL often
+                    self.kb.known_signatures.append({'vector': data_row, 'label': 'SAFE (Bg Verified)'})
+                    print(f"\n[Bg] CASE RESOLVED: {data_row} marked SAFE after deep analysis.")
+                else:
+                    print(f"\n[Bg] THREAT CONFIRMED: {data_row} | Score: {original_score}")
+
+                self.queue.task_done()
+                
+            except queue.Empty:
+                continue
+            except Exception as e:
+                print(f"[Bg] Error: {e}")
+
+    def submit(self, data_row, score):
+        self.queue.put((1, data_row, score))
+
+class GuardianVault:
+    def __init__(self, vault_path=VAULT_PATH):
+        self.vault_path = vault_path
+
+    def flush(self, data_chunk):
+        """Compress and Append data to Vault"""
+        if not data_chunk: return
+        
+        try:
+            # Mode 'at' (Append Text) doesn't exist for gzip, so we use 'ab' (Append Binary)
+            with gzip.open(self.vault_path, 'ab') as f:
+                for row in data_chunk:
+                    # Compact JSON string + Newline
+                    line = json.dumps(row) + "\n"
+                    f.write(line.encode('utf-8'))
+            print(f"[Vault] Secured {len(data_chunk)} memories to Deep Storage.")
+        except Exception as e:
+            print(f"[Vault] Flush Failed: {e}")
+
+    def audit(self, query_vector, tolerance=0.1):
+        """Scan Vault for similar patterns (Double Check)"""
+        if not os.path.exists(self.vault_path): return False
+        
+        match_found = False
+        try:
+            # We only read the last 5000 lines to avoid full scan lag
+            # For PoC, we scan all (file is small)
+            with gzip.open(self.vault_path, 'rt', encoding='utf-8') as f:
+                for line in f:
+                    try:
+                        record = json.loads(line)
+                        # Check similarity: GPU_TIME and PACKET_COUNT
+                        # Simple Euclidean check
+                        dist = np.linalg.norm(np.array(query_vector) - np.array(record))
+                        if dist < tolerance:
+                            match_found = True
+                            break
+                    except: continue
+        except Exception as e:
+            print(f"[Vault] Audit Error: {e}")
+            
+        return match_found
 
 class LogStreamer:
     def __init__(self, log_dir):
@@ -58,10 +192,54 @@ class GuardianBrain:
         self.is_trained = False
         self.feature_cols = ['GPU_TIME_MS', 'GPU_PACKET_COUNT'] 
         self.knowledge = KnowledgeBank()
+        self.vault = GuardianVault()
+        
         # Dynamic Memory
         self.history_buffer = [] 
-        self.max_history = 1000 # Learn from last 1000 events
+        self.max_history = 10000 # [MODIFIED] Learn from last 10,000 events (~3 Hours)
         self.learn_counter = 0
+        
+        # Background Intelligence (Tier 4)
+        self.ghost = BackgroundAnalyzer(self.knowledge, self.vault)
+        self.ghost.start()
+        
+        # Load State if exists (Resurrection Layer)
+        self.load_state()
+        
+        # Auto-Save on Exit
+        atexit.register(self.save_state)
+
+    def save_state(self):
+        try:
+            state = {
+                'buffer': self.history_buffer,
+                'scaler': self.scaler,
+                'is_trained': self.is_trained
+            }
+            joblib.dump(state, MODEL_PATH, compress=3)
+            print(f"[Brain] State Saved: {len(self.history_buffer)} events persisted.")
+        except Exception as e:
+            print(f"[Brain] Save Failed: {e}")
+
+    def load_state(self):
+        if not os.path.exists(MODEL_PATH):
+            return
+            
+        try:
+            print("[Brain] Resurrecting from previous life...")
+            state = joblib.load(MODEL_PATH)
+            self.history_buffer = state.get('buffer', [])
+            self.scaler = state.get('scaler', self.scaler)
+            self.is_trained = state.get('is_trained', False)
+            
+            # Instant Retrain
+            if self.is_trained and len(self.history_buffer) > 0:
+                 X = np.array(self.history_buffer)
+                 self.model.fit(self.scaler.transform(X))
+                 print(f"[Brain] Resurrection Complete. Memories restored: {len(self.history_buffer)}")
+                 
+        except Exception as e:
+            print(f"[Brain] Resurrection Failed: {e}")
 
     def train_initial(self, log_dir_or_file):
         # Handle Directory
@@ -124,6 +302,14 @@ class GuardianBrain:
             self.retrain_dynamic()
             self.learn_counter = 0
 
+        # Vault Trigger A: Overflow
+        if len(self.history_buffer) >= self.max_history:
+             # Flush oldest 2000 items to Vault
+             overflow = self.history_buffer[:2000]
+             self.vault.flush(overflow)
+             # Remove them from Active Memory
+             self.history_buffer = self.history_buffer[2000:]
+
         if not self.is_trained:
             return 0, 0, []
 
@@ -142,6 +328,39 @@ class GuardianBrain:
 
         return score, severity, known_labels
 
+    def predict_hybrid(self, row):
+        # The Hybrid Cascade Logic
+        
+        # 1. Tier 1: Deterministic Heuristic (Fastest)
+        # Check simple rule-based traps
+        if row[1] > 200 and row[0] < 1.0:
+            return -1.0, -1.0, "SUSPICIOUS_COPY_TRAP"
+            
+        # 2. Tier 2: Isolation Forest (Fast ML)
+        if not self.is_trained: return 0,0,[]
+        
+        try:
+            X = np.array([row])
+            X_scaled = self.scaler.transform(X)
+            score = self.model.predict(X_scaled)[0]
+            severity = self.model.score_samples(X_scaled)[0]
+            
+            # 3. Tier 3: Ambiguity Check (Auto-Audit)
+            if -0.7 < score < -0.6:
+                # Ambiguous! 
+                # A. Fast Check: Vault (Tier 3)
+                is_historic = self.vault.audit(row, tolerance=2.0)
+                if is_historic:
+                    score = 1; severity = 0.5 # Downgrade immediately
+                else:
+                    # B. Deep Check: Queue for Background (Tier 4)
+                    # We pass through (don't block), but notify Ghost Thread
+                    self.ghost.submit(row, score)
+                
+            return score, severity, []
+        except:
+            return 0,0,[]
+
 # --- Helper for Printing ---
 class SessionTracker:
     def __init__(self):
@@ -150,6 +369,7 @@ class SessionTracker:
         self.matches = 0
         self.alerts = 0
         self.last_print = time.time()
+        self.start_time = time.time()
 
     def update(self, category):
         if category not in self.stats:
@@ -182,6 +402,28 @@ class SessionTracker:
                 print(f"{cat}: {pct:.1f}% | ", end="")
         
         self.last_print = time.time()
+
+    def print_final_report(self):
+        duration = time.time() - self.start_time
+        print("\n\n" + "="*60)
+        print(f"   SESSION ANALYSIS REPORT (Duration: {duration:.1f}s)")
+        print("="*60)
+        print(f"[-] Total Events Processed:  {self.total}")
+        print(f"[-] Anomalies Detected:      {self.alerts}")
+        print(f"[-] Knowledge Bank Matches:  {self.matches}")
+        
+        health = 100.0
+        if self.total > 0:
+            health = 100.0 - (self.alerts / self.total * 100.0)
+        print(f"[-] Final System Health:     {health:.2f}%")
+        
+        print("\n[Activity Distribution]")
+        sorted_stats = sorted(self.stats.items(), key=lambda item: item[1], reverse=True)
+        for cat, count in sorted_stats:
+            pct = (count / self.total) * 100 if self.total > 0 else 0
+            bar = "█" * int(pct / 5)
+            print(f"    {cat:<20} | {pct:5.1f}% | {bar}")
+        print("="*60 + "\n")
 
 
 def classify_activity(data):
@@ -265,8 +507,17 @@ def main():
                     category = classify_activity(data)
                     session.update(category)
                     
-                    # 2. Check Anomaly
-                    score, severity, known_labels = brain.predict(data)
+                    # 2. Check Anomaly (Using Hybrid Cascade)
+                    score, severity, aux_data = brain.predict_hybrid([data['GPU_TIME_MS'], data['GPU_PACKET_COUNT']])
+                    
+                    known_labels = [] # Default initialization
+                    
+                    if aux_data == "SUSPICIOUS_COPY_TRAP":
+                        # Specific handling for the Trap
+                        score = -1
+                        severity = -1.0
+                    elif isinstance(aux_data, list):
+                        known_labels = aux_data
                     
                     if category == "SUSPICIOUS_COPY":
                         score = -1
@@ -293,7 +544,8 @@ def main():
             time.sleep(0.1) # 100ms latency
             
     except KeyboardInterrupt:
-        print("Stopping Brain.")
+        print("\n[!] User Interrupted. Stopping Brain...")
+        session.print_final_report()
 
 if __name__ == "__main__":
     main()

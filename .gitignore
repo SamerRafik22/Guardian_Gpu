@@ -1,0 +1,17 @@
+build/
+*.exe
+*.obj
+*.tlog
+*.log
+*.pdb
+*.idb
+*.ipdb
+*.iobj
+*.exp
+*.lib
+*.ilk
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.user

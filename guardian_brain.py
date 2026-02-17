@@ -55,6 +55,7 @@ class KnowledgeBank:
         except: pass
         return []
 
+# [FR-AI-03] Yassin: Background Analyzer Thread
 class BackgroundAnalyzer(threading.Thread):
     def __init__(self, knowledge_bank, vault):
         super().__init__()
@@ -203,6 +204,7 @@ class GuardianBrain:
         self.learn_counter = 0
         
         # Background Intelligence (Tier 4)
+        # [FR-INT-04] Yassin: Integrated Ghost Tier
         self.ghost = BackgroundAnalyzer(self.knowledge, self.vault)
         self.ghost.start()
         

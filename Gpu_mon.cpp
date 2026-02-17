@@ -1,6 +1,7 @@
 #include "gpu_mon.h"
 #include <iostream>
 
+// [FR-HW-01] Yassin: Implement GPU Hardware Monitor
 bool GpuMonitor::Initialize() {
     nvmlReturn_t result = nvmlInit();
     if (NVML_SUCCESS != result) {
@@ -14,6 +15,7 @@ void GpuMonitor::Shutdown() {
     nvmlShutdown();
 }
 
+// [FR-HW-01] Yassin: Capture Process Snapshots
 std::vector<GpuProcessSnapshot> GpuMonitor::CaptureProcessSnapshots(nvmlDevice_t device) {
     std::vector<GpuProcessSnapshot> snapshots;
     

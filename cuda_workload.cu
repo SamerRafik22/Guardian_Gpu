@@ -1,3 +1,4 @@
+// [FR-CUDA-02] Yassin: CUDA Workload & Stress Testing
 #include <cuda_runtime.h>
 #include <stdio.h>
 #include <windows.h>

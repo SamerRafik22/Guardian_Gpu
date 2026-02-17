@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Guardian_Gpu/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

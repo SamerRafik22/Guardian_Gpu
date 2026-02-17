@@ -1,0 +1,1 @@
+Timestamp,PID,ProcessName,VRAM_Used_MB,Power_W,GPU_Util_%,Temp_C,Fan_%,CoreClk_MHz,MemClk_MHz,PCIe_RX_MBs,PCIe_TX_MBs,Kernels_Count,Duration_Mean_ns,Duration_StdDev_ns,Theoretical_Occupancy_%,MemCpy_Count

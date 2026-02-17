@@ -1,0 +1,1548 @@
+TIMESTAMP,PID,NAME,MEM_MB,PWR_W,GPU_TIME_MS,GPU_PACKET_COUNT,NET_TX,NET_RX
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,1.94,843,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,789.13,528,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,3.11,853,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.26,1091,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,1038.71,699,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,1.76,477,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.50,1151,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,1053.08,730,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.44,391,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,6,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.40,1141,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1036.77,676,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.92,596,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.13,1029,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,954.92,629,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.07,302,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.04,982,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,938.18,635,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.83,544,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.67,1131,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,1053.03,701,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,4.37,1480,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.03,1035,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,989.14,642,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.92,219,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.01,951,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,922.62,653,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,1.34,464,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.25,1073,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,987.16,646,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,0.95,262,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.29,1126,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,1053.12,691,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.04,275,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.11,1040,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,987.53,640,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.32,333,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.03,895,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,855.66,579,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,2.01,581,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.41,1169,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1087.65,719,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.69,457,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,9.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,9.6,2.65,1228,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,9.6,1119.10,739,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,9.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,9.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,9.6,1.26,352,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,9.6,0.00,1,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,15.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,15.6,2.43,1062,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,15.6,967.71,641,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,15.6,5.83,1050,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,15.6,30.39,2145,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,15.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,15.7,2.57,1106,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,15.7,1004.46,727,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,15.7,2.23,637,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,15.7,2.76,986,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,15.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,15.6,2.35,1010,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,15.6,921.87,608,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,15.6,0.96,259,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,15.6,2.95,1003,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,15.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,15.6,2.71,1215,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,15.6,1085.75,721,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,15.6,2.13,605,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,15.6,4.48,1171,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,15.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,15.6,2.38,1049,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,15.6,972.33,638,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,15.6,0.92,312,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,15.6,4.20,1201,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,15.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,15.7,3.20,1003,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,15.7,906.30,600,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,15.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,15.7,0.85,220,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,15.7,3.13,1041,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,6.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,6.4,3.00,1155,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,6.4,1038.60,711,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,6.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,6.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,6.4,1.59,465,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,6.4,3.72,1022,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.17,1066,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1004.45,688,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,2.98,866,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.56,1017,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.28,1092,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1035.52,684,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.28,398,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.51,1241,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.13,1045,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,964.98,647,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,2.20,618,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.45,894,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.33,1108,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1054.21,712,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.10,291,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,4.78,893,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.00,894,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,856.27,579,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.29,401,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.07,722,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.43,1120,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,1070.25,700,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,0.94,256,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.70,1138,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.48,1158,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1071.56,805,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.06,292,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.09,939,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.34,1051,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,970.10,628,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,2,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.17,293,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,4.65,1199,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.13,1005,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,955.41,627,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.06,251,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.37,1037,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.03,995,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,939.48,633,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.14,323,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.18,735,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,3.02,1144,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,1087.22,712,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,0.91,247,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,3.86,1348,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.06,1034,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,938.60,608,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,0.94,271,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.11,897,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.25,1087,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1005.26,673,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.89,230,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.40,916,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.42,1043,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,972.53,631,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,0.90,260,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,3.01,878,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.23,1137,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1071.69,695,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,0.89,248,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.33,793,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.20,1032,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,989.45,666,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.00,272,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.80,1026,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.25,1081,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1037.44,670,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,0.83,218,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.68,1042,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,4.20,2117,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1961.63,1340,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.02,2,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,2.46,807,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,6.56,2076,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.08,984,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,921.91,610,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,0.97,285,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.78,969,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.35,1088,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1054.78,684,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.02,306,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.56,807,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.7,2.25,1090,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.7,987.06,669,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,219.11,3805,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.7,2.12,671,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.7,4.53,907,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.31,1037,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,985.77,668,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,445.23,607,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,2.41,858,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.83,1206,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.34,1084,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1021.86,674,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.23,12,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.53,416,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,4.21,985,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.43,1086,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1019.83,679,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,57.43,57,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.82,488,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.82,860,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,1.95,981,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,890.53,583,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,32.22,4,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,0.85,255,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,3.07,713,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.29,1132,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1053.31,701,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,38.32,66,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.92,524,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,4.59,1144,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.26,1034,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,956.18,631,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.07,17,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,2.03,477,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,4.01,817,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.8,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.8,2.34,1142,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.8,1086.27,701,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.8,0.00,1,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.8,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.8,0.95,255,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.8,4.04,876,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.16,1032,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,988.64,668,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.03,282,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,4.59,917,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,1.88,884,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,824.33,533,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.64,173,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,2.73,812,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.89,1275,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,1169.34,781,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,1,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,1.23,339,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,4.12,1078,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,1.91,885,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,841.41,567,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,0.75,203,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,2.95,737,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.57,1185,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1104.64,718,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.06,315,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,4.26,1049,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.12,1038,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1006.25,659,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.90,227,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,5.81,927,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.64,1095,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,988.17,651,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.73,548,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.23,858,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.53,1137,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1054.32,718,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.99,259,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.51,936,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.29,1083,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,988.22,653,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,0.99,286,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,4.07,872,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,1.83,888,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,839.71,541,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.07,1,0,0
+NOW,28920,"Unknown",17592186044415,4.3,0.71,189,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.79,947,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.37,1086,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1054.32,698,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.24,378,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.91,952,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.61,1180,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,1086.62,725,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,1.83,452,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,4.69,1078,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.03,938,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,906.84,608,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,0.96,295,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,3.33,705,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.26,1134,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1037.70,677,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.02,259,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,4.08,899,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.28,1055,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1005.18,677,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,0.94,280,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.66,918,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,6,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.30,1066,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,987.89,657,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.01,266,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.34,907,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.26,1042,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,1003.54,656,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,1.03,283,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,3.64,908,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.27,1082,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,988.67,651,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,0.96,238,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.75,885,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,1.80,835,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,773.93,525,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.56,547,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,2.69,607,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.98,1293,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,1235.55,799,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,6,0,0
+NOW,28920,"Unknown",17592186044415,4.4,1.22,361,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,4.45,1033,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.15,1071,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1021.52,676,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.54,478,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,5.22,1028,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,1.84,887,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,807.35,540,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.22,343,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,2.89,705,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.25,1142,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1086.20,719,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,2,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.48,408,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.72,892,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.35,1118,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1070.11,695,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.75,417,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,4.73,959,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,3.68,1813,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1665.33,1138,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.56,415,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,6.27,1585,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.54,1275,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1235.87,802,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,2,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.10,328,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.93,1004,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.19,1080,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1004.46,675,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.90,238,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.34,845,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.63,1150,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1070.52,691,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,2,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.05,290,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.37,983,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.09,1069,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1006.11,692,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,0.88,238,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.50,924,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,6,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.19,1080,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1020.26,679,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.23,352,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.84,1150,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.32,1042,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,969.29,643,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,2.60,719,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,4.30,797,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.30,1081,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1002.20,658,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,2.63,785,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.07,867,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.37,1104,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1001.72,669,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,3.90,1184,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.34,842,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.25,1082,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,1034.82,715,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,2.82,591,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.48,814,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,1.88,936,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,870.71,575,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.29,289,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.48,781,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.64,1229,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1133.62,740,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.70,386,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.06,892,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,1.90,983,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,954.63,677,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.06,257,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.46,798,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.12,955,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,888.98,586,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.86,217,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.45,795,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,1.97,918,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,890.60,588,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,0.70,191,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,2.81,718,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.55,1229,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1153.76,801,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.02,289,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.63,1124,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,1.95,979,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,888.62,585,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.28,318,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.41,700,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.54,1186,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1118.28,736,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,2,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.77,501,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,5.17,1355,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,1.98,982,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,939.67,602,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.36,419,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,2.93,800,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.30,1142,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,1088.42,762,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,1.45,445,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,4.49,1146,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.14,1039,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,939.56,626,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.07,313,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,2.75,718,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.01,6,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.34,1129,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,1085.16,703,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.54,437,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,4.75,1078,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.17,1002,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,955.66,646,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.13,288,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.70,1027,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.27,1131,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1053.47,672,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.55,483,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.05,907,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.7,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.7,2.23,1030,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.7,957.07,646,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.7,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.7,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.7,1.07,313,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.7,3.08,1124,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.09,1079,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1021.16,684,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.31,406,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.44,924,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.29,1082,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,988.46,653,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.21,364,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.18,987,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.02,1,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.00,992,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,955.94,645,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,1,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.22,341,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.11,795,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.42,1080,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1022.48,656,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.07,280,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.40,1188,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.22,1089,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,989.03,674,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.15,350,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.20,897,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,1.96,1041,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1005.47,661,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,0.97,311,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,2.84,1022,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.16,1074,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,972.40,659,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,0.87,240,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.97,917,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.11,1131,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1052.97,697,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.43,416,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.15,976,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,2,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.21,1080,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1003.30,657,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.33,387,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.10,999,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.11,1038,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1006.02,674,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.94,271,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.66,898,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.19,1031,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,955.40,617,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.03,306,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.49,955,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.38,1093,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1039.07,690,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.31,379,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.12,981,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.15,1074,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,988.29,691,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.40,410,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.20,1041,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.06,1033,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,1005.41,661,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,1.44,415,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,3.42,1017,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,4.43,2069,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1943.91,1277,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,2.43,712,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,10.34,1991,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.29,1082,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1004.60,672,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.23,350,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.47,800,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,1.91,967,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,906.48,621,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.08,317,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.32,1027,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.18,1100,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1055.81,692,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.06,320,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.64,1132,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.23,1081,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,988.68,648,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.13,330,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.61,877,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.00,983,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,955.34,617,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.11,304,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,2.93,907,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.32,1129,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1054.10,710,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.05,1,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,2.15,600,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.80,1015,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.61,1135,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1036.04,682,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,2.75,745,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.35,923,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.01,9,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.46,1087,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,968.93,650,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,565.45,2638,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,4.85,1451,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.77,1109,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.5,2.16,1032,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.5,971.41,631,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.5,39.73,71,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.5,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.5,2.77,752,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.5,3.18,1015,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.18,1086,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,1036.53,690,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.10,18,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,2.33,680,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,3.73,1018,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,1.76,987,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,939.72,646,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,51.26,58,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,2.21,646,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,2.74,712,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.21,1133,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1071.09,718,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.08,15,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,2.74,741,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.88,890,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,4.38,1054,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,923.84,637,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,230.57,1326,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,7.93,2208,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.13,887,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.40,1141,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1037.12,699,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,42.20,13,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,2.86,791,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.75,1120,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.19,1033,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1004.99,670,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.12,22,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.67,493,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.50,1103,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.49,1044,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,986.46,656,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,3.84,1044,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.03,976,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.25,1034,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,936.56,610,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,363.10,1272,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,3.30,1090,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,2.60,922,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.53,1085,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1035.62,703,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,535.75,609,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,4.55,1209,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.79,960,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.41,991,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,920.81,589,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,42.69,13,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,3.41,1192,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,3.76,834,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.50,1081,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1036.94,685,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.09,15,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,3.66,904,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,4.96,910,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.24,1129,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1053.22,706,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,49.61,12,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,3.26,1059,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,4.37,1290,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.36,994,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,938.56,623,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,3.42,1230,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.22,733,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.19,1124,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1069.69,697,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.01,1,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.89,703,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,5.18,1054,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.59,1033,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,936.63,630,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,3.65,930,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,4.61,854,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.29,1081,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1037.26,678,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,2.50,578,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.42,918,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.11,1031,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,954.42,626,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,2.02,562,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.87,799,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.6,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.6,1.99,983,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.6,938.85,653,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.6,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.6,2.23,630,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.6,7.50,949,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.23,1136,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1054.50,718,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,2.54,756,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.28,891,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.09,1010,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,956.34,628,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.63,470,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.17,840,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.29,1099,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1021.90,668,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.84,489,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.01,860,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.31,1134,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1071.19,697,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,3.44,1109,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.02,1126,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,6,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,1.96,989,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,938.20,627,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.81,580,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.92,901,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.00,1037,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,989.13,653,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,2.66,689,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,2.90,929,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.57,1135,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,1038.35,672,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,1.51,416,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,4.37,1010,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.08,1087,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1005.47,661,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.09,306,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.95,1047,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.15,1083,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1022.24,698,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.29,363,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,4.06,1042,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.01,7,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,4.33,2029,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1894.88,1243,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,2.17,583,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,7.42,1864,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.39,1164,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1070.56,725,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.17,324,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.28,963,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.29,1067,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1005.47,657,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.20,351,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.66,815,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.31,1056,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1004.36,680,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.36,383,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.42,919,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.19,1044,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,971.88,628,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.11,315,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.11,792,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.31,1071,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,987.76,657,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.74,507,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.84,873,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.19,1079,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1053.79,704,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.27,398,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.43,896,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.23,1032,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,971.02,654,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.19,355,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,2.67,832,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.34,1088,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,972.41,629,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.62,450,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,2.84,836,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.39,1043,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1004.11,672,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.66,401,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.51,1027,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.06,1039,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,955.79,629,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,1.66,530,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,2.89,799,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,6,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.14,1086,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1038.09,670,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,2.83,810,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.78,1096,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.13,1033,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,972.11,633,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.01,2,0,0
+NOW,28920,"Unknown",17592186044415,4.1,3.66,1145,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,2.97,841,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,1.92,934,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,873.58,577,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,2.17,651,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.63,699,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.50,1226,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1154.76,773,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,3.21,818,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,8.01,1030,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.04,1022,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,939.15,626,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,2.25,610,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.17,718,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,1.77,841,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,791.14,517,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.43,393,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,2.89,671,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.59,1291,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1252.27,824,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,2.56,715,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.38,1267,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,1.65,839,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,757.42,508,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.38,398,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,2.16,615,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.54,1284,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1219.37,801,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,3.48,1057,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,5.16,1190,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.10,1081,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1039.27,680,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,2.65,790,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.17,798,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.03,989,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,923.03,606,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.76,516,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.73,1069,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.43,1139,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1054.48,703,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.81,548,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.91,922,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.09,980,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,938.38,629,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.97,253,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,2.97,775,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.15,1086,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1020.79,677,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.02,308,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.70,893,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.20,1045,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,938.89,605,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,0.88,228,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,4.18,1131,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.26,1081,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,1071.61,727,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,1.14,339,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,3.43,1029,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,1.96,998,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,939.84,613,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.01,262,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.23,777,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.65,1119,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,1019.82,691,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,1.11,288,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,4.88,1242,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.18,986,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,971.99,649,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,1,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.02,250,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.78,819,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.54,1179,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1069.74,695,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.39,354,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,5.45,1148,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,1.83,952,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,938.91,622,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,0.98,264,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.65,799,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.11,1058,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1005.40,661,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.10,307,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.69,1006,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.44,1133,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1038.64,732,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.15,309,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.54,795,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,4.48,2134,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,1977.02,1300,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,1.87,557,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,7.24,1817,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.32,1036,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1005.11,663,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.03,5,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.29,341,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.22,1036,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.08,982,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,906.81,736,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.88,259,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,2.83,943,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.12,992,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,956.07,632,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.94,250,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.21,928,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.37,1126,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1022.12,669,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,0.99,277,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,5.40,1026,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.40,1135,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1086.97,714,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.12,319,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.12,1035,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.19,981,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,939.18,612,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.01,5,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,0.94,261,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.73,796,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.54,1079,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,989.03,651,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.16,336,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,4.59,1051,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,2.23,1054,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,1005.64,668,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,0.95,259,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,4.35,1087,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.08,1040,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,972.88,644,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.04,301,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,2.89,1171,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.29,1107,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1038.96,672,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.01,268,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,4.01,995,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.05,1033,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,922.89,629,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.16,333,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.46,991,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.55,1180,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1120.33,732,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.05,285,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.56,893,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.02,941,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,905.25,588,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.20,312,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.34,837,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.49,1179,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1070.70,723,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.13,300,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.98,969,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.5,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.5,1.73,834,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.5,806.45,524,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.5,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.5,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.5,1.02,272,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.5,3.02,802,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.64,1277,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1186.15,783,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.14,312,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,4.69,1298,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.15,1036,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,1005.31,672,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.21,309,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,4.04,900,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.26,1042,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,972.62,652,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,0.95,253,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.34,896,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.45,1081,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,1020.33,668,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.24,314,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.72,960,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.15,1012,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,922.28,643,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,0.97,257,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.69,696,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,1.96,995,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,954.61,646,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.09,327,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.78,887,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.30,1140,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,1071.39,715,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.08,277,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.79,906,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,1.61,779,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,708.77,485,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,0.69,214,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,2.80,712,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.79,1376,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1302.12,859,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.36,350,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,5.06,1245,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.9,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.9,1.72,850,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.9,823.95,541,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.9,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.9,0.83,242,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.9,3.26,905,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.58,1215,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,1104.25,732,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,2.17,600,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,3.63,905,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,2.09,1032,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,988.12,667,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.2,1.43,414,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,3.67,1031,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,2.40,1131,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,1086.32,715,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,1.53,421,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,3.70,1015,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,2.15,1037,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,986.44,667,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,5,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,1.66,540,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,3.10,969,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.11,1101,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,1036.68,672,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.35,423,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,4.06,1037,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.1,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.1,3.51,1602,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.1,1512.81,1035,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.1,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.1,3.34,965,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.1,6.15,1307,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.4,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.4,1.24,491,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.4,460.61,299,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.4,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.4,1.66,432,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.4,1.22,320,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.25,1110,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,986.29,650,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.37,430,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,3.30,879,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,4.35,2110,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,1992.79,1328,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,2.95,936,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,6.33,1637,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,3.8,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,3.8,2.28,1035,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,3.8,967.51,649,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.8,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,3.8,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,3.8,4.05,1240,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,3.8,3.53,798,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.3,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.3,2.16,1079,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.3,1005.26,671,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.3,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.3,1.56,464,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.3,4.16,1025,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.0,0.00,0,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.0,2.08,1032,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.0,955.76,637,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.0,0.00,0,0,0
+NOW,28920,"Unknown",17592186044415,4.0,1.83,523,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.0,3.33,795,0,0
+NOW,14940,"C:\Users\semse\OneDrive\Documents\WSA\WSA_2407.40000.4.0_x64\WsaClient\WsaClient.exe",17592186044415,4.2,0.04,7,0,0
+NOW,27316,"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe",17592186044415,4.2,92.12,43485,0,0
+NOW,8824,"C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe",17592186044415,4.2,40733.01,27263,0,0
+NOW,26764,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.00,0,0,0
+NOW,5456,"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",17592186044415,4.2,0.01,9,0,0
+NOW,28920,"Unknown",17592186044415,4.2,68.50,19542,0,0
+NOW,29580,"D:\Guardian_Gpu\build\Release\CudaWorkload.exe",17592186044415,4.2,148.45,37847,0,0

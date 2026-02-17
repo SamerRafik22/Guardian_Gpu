@@ -1,5 +1,0 @@
-D:/Guardian_Gpu/build/CMakeFiles/GuardianMonitor.dir
-D:/Guardian_Gpu/build/CMakeFiles/SleepyApp.dir
-D:/Guardian_Gpu/build/CMakeFiles/CudaWorkload.dir
-D:/Guardian_Gpu/build/CMakeFiles/ALL_BUILD.dir
-D:/Guardian_Gpu/build/CMakeFiles/ZERO_CHECK.dir
